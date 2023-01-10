@@ -1,0 +1,254 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.donate{
+    background-image: url(../images/donation1.jpg);
+    background-size: cover;
+    height: 500px;
+    
+}
+.main{
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    padding-right: 150px;
+}
+.head1{
+    font-size: 50px;
+    color: white;
+}
+.pera1{
+  color: rgb(233, 200, 200);
+padding-top: 20px;
+font-size: 20px;
+}
+.donate-now{
+    margin-top: 20px;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    background-color: orangered;
+    border: none;
+}
+.donate-today{
+    text-align: center;
+    margin-top: 100px;
+}
+.head2{
+    font-size: 50px;
+
+}
+.pera2{
+    margin-top: 20px;
+    color:darkslategrey;
+}
+.amount{
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+    padding:30px;
+    
+}
+.tk1{
+    background-color:rgb(222, 213, 221);
+    padding: 20px;
+
+}
+.tk2{
+    background-color:#ffc0cb;
+    padding: 20px;
+    border: 2px solid red ;
+}
+.tk3{
+    background-color:#f3ecec;
+    padding: 20px;
+
+
+}
+.tk5{
+    background-color:#d5d4d4;
+    padding: 20px;
+    
+}
+.taka{
+    text-align: center;
+    font-size: 20px;
+    color: #a9a3a3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.today-donate{
+    text-align: center;
+    padding: 20px;
+}
+.today-do{
+    
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    
+}
+.plan{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 40px;
+}
+.planning{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #a9a3a3;
+
+}
+.donate-plan{
+    display: flex;
+    padding-top: 40px;
+    justify-content: space-around;
+    
+    
+}
+.food{
+    background-color: hsl(349, 20%, 83%);
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-right: 30px;
+    margin-left: 100px;
+    margin-right: 100pxpx;
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+    height: 250px;
+    width: 500px;
+}
+.shelter{
+    background-color: hsl(349, 48%, 75%);
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-right: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+    height: 250px;
+    width: 500px;
+} 
+.education{
+    background-color: #adbc84;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-right: 30px;
+    margin-left: 5px;
+    margin-right: 150px;
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+    height: 250px;
+    width: 500px; 
+}
+.alt{
+    padding-top: 10px;
+
+}
+.poison{
+    padding-top: 15px;
+}
+.enim{
+    padding-top: 20px;
+    color: rgb(90, 85, 85);
+}
+.donation{
+    display: flex;
+    justify-content:space-around;
+}
+.donate2{
+    height: 400px;
+    width: 400px;
+    margin-right: 200px;
+    margin-top: 150px;
+}
+.contribute{
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.donate3{
+    font-size: 40px;
+    font-weight: bold;
+
+
+}
+.donate4{
+    padding-top: 20px;
+    color: hsl(0, 3%, 65%);
+    /* font-size: 20px; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.donate5{
+    padding-top: 20px;
+    color: hsl(0, 3%, 65%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.donate6{
+    padding:15px 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.suvive{
+    display: flex;
+    justify-content: space-around;
+}
+
+.suv2{
+    height: 400px;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.suvive1{
+    margin-top: 150px;
+    margin-right: 320px;
+}
+.suv7{
+    font-size: 40px;
+    font-weight: bold;}
+    .suv8{
+        padding-top: 20px;
+    color: hsl(0, 3%, 65%);
+    /* font-size: 20px; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+    .suv9{
+        padding-top: 20px;
+        color: hsl(0, 3%, 65%);
+        font-family: Verdana, Geneva, Tahoma, sans-serif  
+    }
+    .suv0{
+        padding:15px 20px;
+    margin-top: 25px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    }
+    .suv{
+        margin-right: 85px;
+    }
+
